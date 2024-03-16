@@ -1,4 +1,4 @@
-import DateCounter from "./DateCounter";
+import DateCounter from "./DateCounter.jsx";
 
 export default function App() {
   return (
